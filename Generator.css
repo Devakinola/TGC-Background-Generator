@@ -1,0 +1,16 @@
+body {
+  font-family: "Crimson Pro", serif;
+  letter-spacing: 8px;
+  color: rgb(232, 232, 232);
+  text-transform: uppercase;
+  text-align: center;
+  background: linear-gradient(to right, #18ac6e, #ac1856);
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 2em;
+}
