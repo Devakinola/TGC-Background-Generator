@@ -14,3 +14,10 @@ h1 {
 h2 {
   font-size: 2em;
 }
+
+#random {
+  padding: 10px;
+  border-radius: 10px;
+  border-color: aliceblue;
+  font-weight: bold;
+}
