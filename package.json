@@ -1,0 +1,19 @@
+{
+  "name": "ux_dev-background-generator",
+  "version": "1.0.0",
+  "description": "Background generator for my designs",
+  "main": "Generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devakinola/TGC-Background-Generator.git"
+  },
+  "author": "UX_Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devakinola/TGC-Background-Generator/issues"
+  },
+  "homepage": "https://github.com/Devakinola/TGC-Background-Generator#readme"
+}
